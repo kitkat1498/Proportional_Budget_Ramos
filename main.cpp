@@ -1,3 +1,8 @@
+/*This program is intended to be a budget tracker
+By Manuel Ramos
+Professor: Dr. Tyson McMillan
+Date:12/4/2019
+*/
 #include <iostream>
 #include <string>
 #include <vector>
